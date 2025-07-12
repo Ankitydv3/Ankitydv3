@@ -2,8 +2,7 @@
 
 🎓 MCA Student | 💻 Full Stack Web Developer | ☕ Java Enthusiast  
 
-<img align="right" alt="coding" width="400" src"<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/408be537-4631-4372-a560-a4e869659020" />
-">
+<img width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/408be537-4631-4372-a560-a4e869659020" />
 
 ---
 
